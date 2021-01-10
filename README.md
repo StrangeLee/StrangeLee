@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+사람을 좋아하는 개발자 이상하라고 합니다.😃
+아직 배울 것도 경험해야 할 것도 많지만
+매사에 최선을 다하는 개발자가 되고 싶습니다.🤓
